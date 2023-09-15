@@ -1,2 +1,4 @@
-package iFellow;public class Main {
+package iFellow;
+
+public class Main {
 }
